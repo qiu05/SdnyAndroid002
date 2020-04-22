@@ -17,4 +17,5 @@
         android:id="@+id/ch10_1_tv"
         android:layout_height="wrap_content" />
 
+
 </LinearLayout>

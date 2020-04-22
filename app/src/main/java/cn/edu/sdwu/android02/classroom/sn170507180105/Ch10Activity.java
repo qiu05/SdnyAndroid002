@@ -23,6 +23,7 @@ public class Ch10Activity extends AppCompatActivity {
         String text=intent.getStringExtra("text");
         TextView textView=(TextView)findViewById(R.id.ch10_1_tv);
         textView.setText(text);
+
     }
 
 
